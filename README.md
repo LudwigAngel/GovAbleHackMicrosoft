@@ -1,6 +1,6 @@
 # ✨ GovAble - Innovation Challenge Microsoft ✨
 
-![GovAble Logo](./src/img/GovAblecontexto.png)
+![GovAble Logo](./mi-app/src/img/GovAblecontexto.png)
 
 ---
 
