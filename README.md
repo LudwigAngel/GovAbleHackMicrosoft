@@ -66,7 +66,7 @@
 ## **📄 Estructura del Proyecto**  
 
 ```plaintext
-GovAbleHackMicrosoft/
+GovAbleHackMicrosoft/mi-app
 │-- src/
 │   ├── img/                # Imágenes del proyecto
 │   ├── components/         # Componentes reutilizables
