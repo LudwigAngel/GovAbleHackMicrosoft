@@ -84,10 +84,10 @@ GovAbleHackMicrosoft/mi-app
 ## **📸 Capturas de Pantalla**  
 
 ### **Sección de Auditoría**  
-<img src="./mi-app/src/img/seccion de auditoria.png" alt="Auditoría" width="300"/>
+<img src="./mi-app/src/img/seccion de auditoria.png" alt="Auditoría" width="700"/>
 
 ### **Resultados de Accesibilidad**  
-<img src="./mi-app/src/img/seccion de accesibilidad.png" alt="Accesibilidad" width="300"/> 
+<img src="./mi-app/src/img/seccion de accesibilidad.png" alt="Accesibilidad" width="700"/> 
 
 ---
 
