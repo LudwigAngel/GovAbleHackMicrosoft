@@ -98,9 +98,9 @@ Este proyecto ha sido desarrollado como parte del **Innovation Challenge de Micr
 ---
 
 ## **🛏♥️ Equipo**  
-- **Nombre del Participante**: Ludwig Angel  
-- **Contacto**: ludwigangel@outlook.com  
-- **LinkedIn**: [Ludwig Angel](#)  
+- **Nombre de los Participantes**: 
+- **Contacto**: 
+- **LinkedIn**: 
 
 ---
 
