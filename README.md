@@ -1,70 +1,119 @@
-# Getting Started with Create React App
+# ✨ GovAble - Innovation Challenge Microsoft ✨
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GovAble Logo](./src/img/GovAblecontexto.png)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## **📋 Objetivo del Proyecto**  
+**GovAble** tiene como misión **empoderar a los gobiernos** para lograr una **inclusión digital universal**. Nuestra plataforma evalúa la **accesibilidad web** según los estándares **WCAG 2.1**, proporcionando resultados claros y prácticos para optimizar la experiencia de todos los usuarios, sin importar sus habilidades.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## **🚀 Funcionalidades Principales**  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Auditoría de Accesibilidad Web**:  
+   Analiza sitios web ingresando una URL, mostrando un puntaje y áreas de mejora.  
+- **Resultados Detallados**:  
+   Evalúa la conformidad con principios clave:  
+   - Perceptible ✅  
+   - Operable ⚠️  
+   - Comprensible ❌  
+   - Robusto ✅  
+- **Reporte Descargable**:  
+   Exporta los resultados en un archivo **.txt**.  
+- **Reiniciar Auditoría**:  
+   Permite realizar una nueva auditoría de manera sencilla.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## **🎯 Cómo Ejecutar el Proyecto**  
 
-### `npm run build`
+1. **Clona el repositorio**:  
+   En tu terminal ejecuta:  
+   ```bash
+   git clone https://github.com/LudwigAngel/GovAbleHackMicrosoft.git
+   cd GovAbleHackMicrosoft
+   ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. **Instala las dependencias**:  
+   Asegúrate de tener **Node.js** y **npm** instalados. Luego ejecuta:  
+   ```bash
+   npm install
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. **Ejecuta el proyecto en local**:  
+   ```bash
+   npm start
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4. **Visualiza la aplicación**:  
+   Abre tu navegador y dirígete a:  
+   ```
+   http://localhost:3000
+   ```
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## **💻 Tecnologías Utilizadas**  
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Frontend**: React.js con Material UI  
+- **Estilización**: CSS personalizado + Material UI  
+- **Estado**: Hooks de React (useState)  
+- **Funcionalidad**: JavaScript (para lógica de simulación y descarga de reportes)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## **📄 Estructura del Proyecto**  
 
-## Learn More
+```plaintext
+GovAbleHackMicrosoft/
+│-- src/
+│   ├── img/                # Imágenes del proyecto
+│   ├── components/         # Componentes reutilizables
+│   ├── HomePage.js         # Página principal
+│   ├── App.js              # Componente raíz
+│   ├── index.js            # Punto de entrada
+│   └── styles/             # Estilos CSS
+│
+│-- package.json            # Configuración de dependencias
+│-- README.md               # Este archivo :)
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## **📸 Capturas de Pantalla**  
 
-### Code Splitting
+### **Sección de Auditoría**  
+![Auditoría](./src/img/auditoria.png)  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### **Resultados de Accesibilidad**  
+![Resultados](./src/img/resultados.png)  
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## **💡 Sobre el Innovation Challenge de Microsoft**  
 
-### Making a Progressive Web App
+Este proyecto ha sido desarrollado como parte del **Innovation Challenge de Microsoft** para fomentar soluciones tecnológicas innovadoras que promuevan la inclusión y accesibilidad.  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## **🛏♥️ Equipo**  
+- **Nombre del Participante**: Ludwig Angel  
+- **Contacto**: ludwigangel@outlook.com  
+- **LinkedIn**: [Ludwig Angel](#)  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## **🔗 Repositorio en GitHub**  
+Encuentra el código fuente aquí: [GovAbleHackMicrosoft](https://github.com/LudwigAngel/GovAbleHackMicrosoft)  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## **💾 Descarga y Prueba**  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+¡Sigue los pasos y prueba **GovAble**! 🚀  
+Tu retroalimentación es bienvenida. 🎉  
+
+---
+
+**¡Gracias por evaluar nuestro proyecto! 🙌**  
