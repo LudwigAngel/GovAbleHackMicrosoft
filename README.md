@@ -1,6 +1,6 @@
 # ✨ GovAble - Innovation Challenge Microsoft ✨
 
-![GovAble Logo]( <img src="./mi-app/src/img/GovAblecontexto.png" alt="Auditoría" width="300"/>)
+ <img src="./mi-app/src/img/GovAblecontexto.png" alt="Auditoría" width="300"/>
 
 ---
 
@@ -84,10 +84,10 @@ GovAbleHackMicrosoft/mi-app
 ## **📸 Capturas de Pantalla**  
 
 ### **Sección de Auditoría**  
-![Auditoría](<img src="./mi-app/src/img/seccion de auditoria.png" alt="Auditoría" width="300"/>)  
+<img src="./mi-app/src/img/seccion de auditoria.png" alt="Auditoría" width="300"/>
 
 ### **Resultados de Accesibilidad**  
-![Resultados](<img src="./mi-app/src/img/seccion de accesibilidad.png" alt="Accesibilidad" width="300"/>)  
+<img src="./mi-app/src/img/seccion de accesibilidad.png" alt="Accesibilidad" width="300"/> 
 
 ---
 
