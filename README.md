@@ -1,7 +1,7 @@
 # ✨ GovAble - Innovation Challenge Microsoft ✨
 
-![GovAble Logo](./mi-app/src/img/GovAblecontexto.png)
-
+![GovAble Logo]()
+<img src="./mi-app/src/img/GovAblecontexto.png" alt="Auditoría" width="300"/>
 ---
 
 ## **📋 Objetivo del Proyecto**  
