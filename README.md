@@ -98,9 +98,8 @@ Este proyecto ha sido desarrollado como parte del **Innovation Challenge de Micr
 ---
 
 ## **🛏♥️ Equipo**  
-- **Nombre de los Participantes**: 
-- **Contacto**: 
-- **LinkedIn**: 
+- **Nombre del Participante**: Ludwig Angel Limache Mayta
+- **LinkedIn**: https://www.linkedin.com/in/ludwig-angellimache/
 
 ---
 
